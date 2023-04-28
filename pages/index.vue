@@ -54,7 +54,7 @@ export default defineNuxtComponent({
       center: [30.056340067069875, 31.274975822065922],
       start: [30.113075859168305, 31.397057212138296],
       destination: [29.981135203535274, 31.133849840173017],
-      tileURL: "ec2-3-65-28-152.eu-central-1.compute.amazonaws.com/hot",
+      tileURL: "http://ec2-3-65-28-152.eu-central-1.compute.amazonaws.com/hot",
       routingUrl:
         "http://ec2-18-195-147-254.eu-central-1.compute.amazonaws.com:8080/ors/v2/directions/driving-car?",
       routePath: [],
